@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p bpagan Calculate the Breusch-Pagan LM statistic after regress Use bpagan With STATA 19
