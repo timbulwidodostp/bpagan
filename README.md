@@ -1,6 +1,8 @@
 # bpagan
 Calculate the Breusch-Pagan LM statistic after regress Use bpagan With STATA 19
 
+https://www.youtube.com/watch?v=3wKubGRhTGM
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
